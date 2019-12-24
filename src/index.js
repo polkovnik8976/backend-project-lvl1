@@ -5,3 +5,4 @@ export const getUserName = () => {
   console.log(`Hello, ${userName}!\n`);
   return userName;
 };
+
