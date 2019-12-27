@@ -1,10 +1,11 @@
 {
-  "name": "backend-project-lvl1",
+  "name": "backend-project-lvl1-Tema",
   "version": "1.0.0",
   "description": "Welcome to the Brain Games!",
   "main": "dist/index.js",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even" : "dist/bin/brain-even.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,8 @@
     "@babel/core": "^7.7.7",
     "@babel/node": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
-    "eslint": "^4.19.1",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-babel": "^5.3.0",
     "eslint-plugin-import": "^2.19.1"
