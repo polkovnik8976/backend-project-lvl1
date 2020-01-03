@@ -17,9 +17,17 @@
 </pre>
 <p>Answer "yes" if the number is even, otherwise answer "no".</p>
 <p>
-<a href="https://asciinema.org/a/7gWqBsQHTQF9RiqxV1ugGxLjW" target="_blank"><img src="https://asciinema.org/a/7gWqBsQHTQF9RiqxV1ugGxLjW.svg" /></a>
+<a href="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ" target="_blank"><img src="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ.svg" /></a>
 </p>
 <p>To start second game run command</p>
 <pre>
 <code>$ brain-calc</code>
 </pre>
+<a href="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ" target="_blank"><img src="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ.svg" /></a>
+</p>
+<p>To start third game run command</p>
+<pre>
+<code>$ brain-gcd</code>
+</pre>
+<a href="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y" target="_blank"><img src="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y.svg" /></a>
+</p>
