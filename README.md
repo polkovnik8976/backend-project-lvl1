@@ -37,3 +37,9 @@
 </pre>
 <a href="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5" target="_blank"><img src="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5.svg" /></a>
 </p>
+<p>To start fifth game run command</p>
+<pre>
+<code>$ brain-prime</code>
+</pre>
+<a href="https://asciinema.org/a/JcDhLgETpFBnFMozxZpQXIhyf" target="_blank"><img src="https://asciinema.org/a/JcDhLgETpFBnFMozxZpQXIhyf.svg" /></a>
+</p>
