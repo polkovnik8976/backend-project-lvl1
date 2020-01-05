@@ -3,11 +3,11 @@ import run from '..';
 
 const description = 'Find the greatest common divisor of given numbers.';
 
-const answer = (a, b) => {
-  if (b === 0) {
-    return `${a}`;
+const answer = (firstRandomNumber, secondRandomNumber) => {
+  if (secondRandomNumber === 0) {
+    return `${firstRandomNumber}`;
   }
-  return answer(b, a % b);
+  return answer(secondRandomNumber, firstRandomNumber % secondRandomNumber);
 };
 
 

@@ -23,11 +23,17 @@
 <pre>
 <code>$ brain-calc</code>
 </pre>
-<a href="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ" target="_blank"><img src="https://asciinema.org/a/7zdrQ1d7oKu0P7iZFMCgn6CzJ.svg" /></a>
+<a href="https://asciinema.org/a/HdAAKpapQMkoEK6vAvGCBCVht" target="_blank"><img src="https://asciinema.org/a/HdAAKpapQMkoEK6vAvGCBCVht.svg" /></a>
 </p>
 <p>To start third game run command</p>
 <pre>
 <code>$ brain-gcd</code>
 </pre>
 <a href="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y" target="_blank"><img src="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y.svg" /></a>
+</p>
+<p>To start forth game run command</p>
+<pre>
+<code>$ brain-progression</code>
+</pre>
+<a href="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5" target="_blank"><img src="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5.svg" /></a>
 </p>
