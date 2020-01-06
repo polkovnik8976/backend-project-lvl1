@@ -14,7 +14,6 @@ const answer = (firstRandomNumber, secondRandomNumber) => {
 
 const getRound = () => {
   const firstRandomNumber = randomNumber(1, 50);
-  console.log(firstRandomNumber);
 
   const secondRandomNumber = randomNumber(1, 50);
 

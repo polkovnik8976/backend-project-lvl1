@@ -3,14 +3,12 @@
 <p>
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a> 
 
-[![Build Status](https://travis-ci.com/polkovnik8976/backend-project-lvl1.svg?branch=master)](https://travis-ci.com/polkovnik8976/backend-project-lvl1)
+<a href="https://codeclimate.com/github/polkovnik8976/backend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/0fc7da271003735dcc8b/maintainability" /></a>
 </p>
 
 <h2>Setup:</h2> 
-<p>Dowland npm package<p>
-<pre>
-<code>$ npm i -g backend-project-lvl1-tema</code>
-</pre>
+<p>Dowland or clone package from https://github.com/polkovnik8976/backend-project-lvl1.git<p>
+<p>Install npm in the project directory. Run <code>make install</code> and <code>make publish</code></p>
 <p>To start first game run command</p>
 <pre>
 <code>$ brain-even</code>

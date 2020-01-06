@@ -15,7 +15,19 @@
     "type": "git",
     "url": "git+https://github.com/polkovnik8976/backend-project-lvl1.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hexlet",
+    "games",
+    "JavaScript",
+    "Even Games",
+    "Calc Games",
+    "GCD Games",
+    "Progression Games",
+    "Prime Games",
+    "brain",
+    "console",
+    "math"
+  ],
   "author": "Artem Petrenko",
   "license": "ISC",
   "bugs": {
