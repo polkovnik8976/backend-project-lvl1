@@ -9,12 +9,14 @@ const getRound = () => {
 
   const quantityOfNumbers = 10;
 
-  const firstRandomNumberOfSequence = randomNumber(1, 50);
+  const firstRandomNumberOfSequence = randomNumber();
+
 
   const hiddenRandomNumberOfSequence = randomNumber(1, quantityOfNumbers);
 
   const preQuestion = () => {
     let result = '';
+
 
     for (let i = firstRandomNumberOfSequence;
       i < firstRandomNumberOfSequence + (quantityOfNumbers * differenceOfNumbers);
@@ -25,13 +27,16 @@ const getRound = () => {
       } else { result += `${i},`; }
     }
 
-    const abc = result.split(',');
-    return abc.join('  ');
+    return result.split(',').join('  ');
   };
+
   const question = preQuestion(firstRandomNumberOfSequence, hiddenRandomNumberOfSequence,
     quantityOfNumbers, differenceOfNumbers);
+
+
   const correctAnswer = `${firstRandomNumberOfSequence + ((hiddenRandomNumberOfSequence * differenceOfNumbers)
   - differenceOfNumbers)}`;
+
   return { correctAnswer, question };
 };
 

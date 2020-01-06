@@ -23,23 +23,31 @@
 <pre>
 <code>$ brain-calc</code>
 </pre>
+<p>What is the result of the expression?</p>
+<p>
 <a href="https://asciinema.org/a/HdAAKpapQMkoEK6vAvGCBCVht" target="_blank"><img src="https://asciinema.org/a/HdAAKpapQMkoEK6vAvGCBCVht.svg" /></a>
 </p>
 <p>To start third game run command</p>
 <pre>
 <code>$ brain-gcd</code>
 </pre>
+<p>Find the greatest common divisor of given numbers.</p>
+<p>
 <a href="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y" target="_blank"><img src="https://asciinema.org/a/1JzC62JTr5NOzqMezPLle8J9y.svg" /></a>
 </p>
 <p>To start forth game run command</p>
 <pre>
 <code>$ brain-progression</code>
 </pre>
+<p>What number is missing in the progression?</p>
+<p>
 <a href="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5" target="_blank"><img src="https://asciinema.org/a/oYL0FbmicCBGU0MzK4VpMIXd5.svg" /></a>
 </p>
 <p>To start fifth game run command</p>
 <pre>
 <code>$ brain-prime</code>
 </pre>
+<p>Answer "yes" if given number is prime. Otherwise answer "no".</p>
+<p>
 <a href="https://asciinema.org/a/JcDhLgETpFBnFMozxZpQXIhyf" target="_blank"><img src="https://asciinema.org/a/JcDhLgETpFBnFMozxZpQXIhyf.svg" /></a>
 </p>

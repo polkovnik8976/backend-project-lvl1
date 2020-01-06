@@ -1,8 +1,8 @@
 {
   "name": "backend-project-lvl1-tema",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Brain Games - 5 simple math console games",
-  "main": "dist/index.js",
+  "main": "",
   "bin": {
     "brain-games": "dist/bin/brain-games.js",
     "brain-even": "dist/bin/brain-even.js",
@@ -41,7 +41,6 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@types/readline-sync": "^1.4.3",
     "readline-sync": "^1.4.10"
   }
 }

@@ -7,15 +7,21 @@ const answer = (firstRandomNumber, secondRandomNumber) => {
   if (secondRandomNumber === 0) {
     return `${firstRandomNumber}`;
   }
+
   return answer(secondRandomNumber, firstRandomNumber % secondRandomNumber);
 };
 
 
 const getRound = () => {
   const firstRandomNumber = randomNumber(1, 50);
+  console.log(firstRandomNumber);
+
   const secondRandomNumber = randomNumber(1, 50);
+
   const question = `${firstRandomNumber} ${secondRandomNumber}`;
+
   const correctAnswer = answer(firstRandomNumber, secondRandomNumber);
+
   return { correctAnswer, question };
 };
 
