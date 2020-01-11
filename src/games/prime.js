@@ -1,4 +1,4 @@
-import randomNumber from '../random_number';
+import randomNumber from '../utils';
 import run from '..';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
@@ -19,9 +19,7 @@ const isPrime = (value) => {
 
 const getRound = () => {
   const question = randomNumber();
-
   const correctAnswer = isPrime(question) ? 'yes' : 'no';
-
   return { correctAnswer, question };
 };
 
