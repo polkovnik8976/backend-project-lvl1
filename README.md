@@ -1,7 +1,7 @@
 
 <h1>Welcome to the Brain Games!</h1>
 <p>
-<a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a> 
+<a href="https://codeclimate.com/github/polkovnik8976/backend-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/0fc7da271003735dcc8b/test_coverage" /></a>
 
 [![Build Status](https://travis-ci.com/polkovnik8976/backend-project-lvl1.svg?branch=master)](https://travis-ci.com/polkovnik8976/backend-project-lvl1)
 </p>
